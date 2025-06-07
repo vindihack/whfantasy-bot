@@ -1,6 +1,6 @@
 # Warhammer Fantasy RPG Bot
 
-Bot de Discord para jugar **Warhammer Fantasy Roleplay 2ª Edición**.
+Proyecto de un bot de Discord para jugar **Warhammer Fantasy Roleplay 2ª Edición**.
 
 ## Instalación
 
