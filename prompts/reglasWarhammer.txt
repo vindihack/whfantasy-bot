@@ -1,0 +1,75 @@
+=== WARHAMMER FANTASY ROLEPLAY 2ª EDICIÓN ===
+
+SISTEMA BÁSICO:
+- Usa dados percentiles (d100)
+- Para tener éxito, debes sacar igual o menos que tu característica
+- Las características van de 0 a 100+
+
+CARACTERÍSTICAS BÁSICAS:
+- Habilidad de Armas (HA): Combate cuerpo a cuerpo
+- Habilidad de Proyectiles (HP): Combate a distancia  
+- Fuerza (F): Poder físico y daño
+- Resistencia (R): Salud y aguante
+- Agilidad (AG): Destreza y velocidad
+- Inteligencia (INT): Razonamiento y memoria
+- Voluntad (VOL): Determinación mental
+- Empatía (EM): Intuición social
+- Sociabilidad (SOC): Carisma y liderazgo
+
+COMBATE:
+1. Iniciativa: Tirada de Agilidad
+2. Ataque: HA vs HA del oponente (o esquivar)
+3. Daño: Fuerza + Arma - Resistencia - Armadura
+4. Localización: d100 para determinar dónde impacta
+
+MAGIA:
+- Canalizar Poder: Acumular dados de poder
+- Lanzar Hechizo: Usar dados acumulados
+- Percances: Fallos pueden causar mutaciones o demonios
+
+MIEDO Y TERROR:
+- Miedo: Tirada de Voluntad o quedar Roto
+- Terror: Tirada de Voluntad-20 o huir despavorido
+
+CARRERAS:
+Humanas básicas: Agitador, Artesano, Bufón, Comerciante, Criado, 
+Enterrador, Escriba, Forajido, Guardián, Iniciado, Marinero, 
+Mendigo, Minero, Noble, Patrullero, Plebeyo, Ratero, Soldado
+
+PUNTOS DE DESTINO:
+- Permiten repetir tiradas fallidas
+- Número limitado por sesión
+- Representan la suerte del héroe
+
+LOCURA:
+- Eventos traumáticos causan Puntos de Locura
+- Acumular demasiados causa demencia
+- Se recupera con tiempo y tratamiento
+
+EL VIEJO MUNDO:
+- Imperio: Nación humana principal, basada en el Sacro Imperio
+- Bretonnia: Reino de caballeros, inspirado en Francia medieval  
+- Tierras Baldías: Territorio del Caos al norte
+- Kislev: Barrera contra el Caos
+- Tilea y Estalia: Reinos del sur
+
+AMENAZAS:
+- Hombres Bestia: Mutantes corruptos en los bosques
+- Orcos y Goblins: Pieles verdes violentos
+- Skaven: Hombres rata subterráneos
+- No Muertos: Vampiros, zombis y esqueletos
+- Demonios del Caos: Entidades sobrenaturales malévolas
+
+RELIGION:
+- Sigmar: Dios patrón del Imperio
+- Ulric: Dios de los lobos y el invierno
+- Taal: Dios de la naturaleza
+- Rhya: Diosa de la fertilidad
+- Morr: Dios de los muertos
+
+TONO DEL JUEGO:
+- Mundo oscuro y peligroso
+- Los héroes luchan contra probabilidades imposibles
+- La corrupción acecha constantemente
+- La muerte es común y brutal
+- El humor negro es característico

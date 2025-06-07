@@ -1,0 +1,15 @@
+[Unit]
+Description=Warhammer Fantasy RPG Discord Bot
+After=network.target
+
+[Service]
+Type=simple
+User=$(whoami)
+WorkingDirectory=$(pwd)
+ExecStart=/usr/bin/node bot.js
+Restart=always
+RestartSec=10
+Environment=NODE_ENV=production
+
+[Install]
+WantedBy=multi-user.target

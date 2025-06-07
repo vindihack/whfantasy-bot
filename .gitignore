@@ -1,0 +1,35 @@
+# Dependencias
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Base de datos
+db/database.sqlite
+db/*.db
+
+# Logs
+data/logs/*.log
+logs/
+*.log
+
+# Variables de entorno
+.env
+
+# Archivos temporales
+.tmp/
+temp/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cobertura de pruebas
+coverage/
+.nyc_output/
